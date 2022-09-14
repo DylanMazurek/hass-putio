@@ -1,0 +1,2 @@
+# From our manifest.json for our custom component
+putio.py==8.7.0

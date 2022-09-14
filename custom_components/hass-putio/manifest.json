@@ -1,0 +1,14 @@
+{
+	"domain": "putio",
+	"name": "Put.io component",
+	"documentation": "",
+	"requirements": [
+		"putio.py==8.7.0"
+	],
+	"dependencies": [
+		"webhook",
+		"downloader"
+	],
+	"codeowners": ["@dylanmazurek"],
+	"version": "0.1.0"
+}
